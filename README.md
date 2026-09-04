@@ -1,4 +1,4 @@
-# 🚀 SidIQ --- AI Revenue Recovery & Decision Intelligence Platform
+# 🚀 SidIQ - AI Revenue Recovery & Decision Intelligence Platform
 
 SidIQ is an AI-powered revenue recovery platform designed to help
 businesses identify failed-payment revenue at risk, predict recovery
